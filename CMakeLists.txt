@@ -3,4 +3,4 @@ project(modulo)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(modulo main.cpp)
+add_executable(modulo main.cpp testPrint.cpp testPrint.h)
